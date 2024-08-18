@@ -1,2 +1,2 @@
-# MikyJr17-api-restaurante-citior
+# api-restaurante-citior
 API REST - RESTAURANTE - CURSO CITIOR
